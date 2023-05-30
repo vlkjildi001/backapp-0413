@@ -1,6 +1,6 @@
 ﻿#!/usr/bin/env bash
 # 其他Paas保活
-PAAS1=https://diyigezhanghu0413-howurvtw.b4a.run/
+PAAS1=https://diyigezhanghu0413-howurvtw.b4a.run
 PAAS2=
 PAAS3=
 
